@@ -1,7 +1,7 @@
 function D = fcn(V_PV, I_PV)
 
 % Initial Duty Cycle with Max and Min Limits 
-Dinit = 0.5;
+Dinit = 0.4;
 Dmax = 0.9;
 Dmin = 0.1;
 deltaD = 20e-6;
