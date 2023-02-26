@@ -1,0 +1,1 @@
+var modelInfo = {model:"SimpleModel"};var modelHierarchy=[{model:"SimpleModel",relativePath:"_internal.html",parent:"null"},];
